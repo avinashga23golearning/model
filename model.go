@@ -2,7 +2,7 @@ package model
 
 //Person person representation
 type Person struct {
-	ID    int
+	ID    string
 	Name  string
 	Age   int
 	Email string
